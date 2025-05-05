@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca23ff0a70ce7544c9466714b4b53ab8, type: 3}
+  m_Name: TinyVoice
+  m_EditorClassIdentifier: 
+  voice: {fileID: 8300000, guid: 2841531078f42a644870d00d23c41021, type: 3}
+  textMaterial: {fileID: 2100000, guid: 8e63c7b8bb28dfd40a183b280b82663e, type: 2}
+  deltaSound: 85
+  color: {r: 0, g: 0.1565795, b: 1, a: 1}

@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 67e8a203f9c3b2d4abe20bf0ee33b1cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6786346440077799729
+    second: LastPage2_0
+  - first:
+      213: -6305605272106556767
+    second: LastPage2_1
+  - first:
+      213: -8193775768953731409
+    second: LastPage2_2
+  - first:
+      213: -7903336338663073994
+    second: LastPage2_3
+  - first:
+      213: -2311702298679058245
+    second: LastPage2_4
+  - first:
+      213: -8212414042315844350
+    second: LastPage2_5
+  - first:
+      213: -2016043853206176109
+    second: LastPage2_6
+  - first:
+      213: -8788622813943601769
+    second: LastPage2_7
+  - first:
+      213: -1991560948220472683
+    second: LastPage2_8
+  - first:
+      213: 988887629095601786
+    second: LastPage2_9
+  - first:
+      213: 2520430199105431614
+    second: LastPage2_10
+  - first:
+      213: 6269974633118303508
+    second: LastPage2_11
+  - first:
+      213: -4161175574375442645
+    second: LastPage2_12
+  - first:
+      213: -1011910768919575255
+    second: LastPage2_13
+  - first:
+      213: 8886550431678769816
+    second: LastPage2_14
+  - first:
+      213: -4002319448052550709
+    second: LastPage2_15
+  - first:
+      213: 460592862184192613
+    second: LastPage2_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LastPage2_0
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 933
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce0d6c4edd02d1a0800000000000000
+      internalID: -6786346440077799729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastPage2_1
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 923
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2224ed96dfd78a0800000000000000
+      internalID: -6305605272106556767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastPage2_2
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 941
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa64f42c95cd94e80800000000000000
+      internalID: -8193775768953731409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastPage2_3
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 922
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6371d814975b15290800000000000000
+      internalID: -7903336338663073994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastPage2_4
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 941
+        width: 70
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0e7ccd10f2befd0800000000000000
+      internalID: -2311702298679058245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastPage2_5
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 949
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205955390f4a70e80800000000000000
+      internalID: -8212414042315844350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastPage2_6
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 948
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e39060cc29504e0800000000000000
+      internalID: -2016043853206176109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastPage2_7
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 368
+        width: 303
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7956ff56d1a880680800000000000000
+      internalID: -8788622813943601769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastPage2_8
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 933
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59257cc8edd8c54e0800000000000000
+      internalID: -1991560948220472683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastPage2_9
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 695
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76850f2f0c39bd00800000000000000
+      internalID: 988887629095601786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastPage2_10
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 329
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38a8da89ed5af220800000000000000
+      internalID: 2520430199105431614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastPage2_11
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 289
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4150ab585bc630750800000000000000
+      internalID: 6269974633118303508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastPage2_12
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 306
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27d159acd88046c0800000000000000
+      internalID: -4161175574375442645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastPage2_13
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 264
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925082a5488f4f1f0800000000000000
+      internalID: -1011910768919575255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastPage2_14
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 262
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89aaeced88e535b70800000000000000
+      internalID: 8886550431678769816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastPage2_15
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 277
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3b03dcaa7e478c0800000000000000
+      internalID: -4002319448052550709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LastPage2_16
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 218
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ab19094ca546600800000000000000
+      internalID: 460592862184192613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LastPage2_0: -6786346440077799729
+      LastPage2_1: -6305605272106556767
+      LastPage2_10: 2520430199105431614
+      LastPage2_11: 6269974633118303508
+      LastPage2_12: -4161175574375442645
+      LastPage2_13: -1011910768919575255
+      LastPage2_14: 8886550431678769816
+      LastPage2_15: -4002319448052550709
+      LastPage2_16: 460592862184192613
+      LastPage2_2: -8193775768953731409
+      LastPage2_3: -7903336338663073994
+      LastPage2_4: -2311702298679058245
+      LastPage2_5: -8212414042315844350
+      LastPage2_6: -2016043853206176109
+      LastPage2_7: -8788622813943601769
+      LastPage2_8: -1991560948220472683
+      LastPage2_9: 988887629095601786
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

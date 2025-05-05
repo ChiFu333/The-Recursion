@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 21b06fad08af9524dbec75b61cffe923
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2819661147981153638
+    second: RecursePanel_0
+  - first:
+      213: 1854152758722889953
+    second: RecursePanel_1
+  - first:
+      213: -7170469040526338470
+    second: RecursePanel_2
+  - first:
+      213: 2184482596908501047
+    second: RecursePanel_3
+  - first:
+      213: 5080787259348003644
+    second: RecursePanel_4
+  - first:
+      213: -2669677211208130921
+    second: RecursePanel_5
+  - first:
+      213: -7253477476362988050
+    second: RecursePanel_6
+  - first:
+      213: -6537624154915840782
+    second: RecursePanel_7
+  - first:
+      213: -990748349399927628
+    second: RecursePanel_8
+  - first:
+      213: 3845198947505675403
+    second: RecursePanel_9
+  - first:
+      213: -4004940249960517948
+    second: RecursePanel_10
+  - first:
+      213: 5361480390328299212
+    second: RecursePanel_11
+  - first:
+      213: 5361806768541292473
+    second: RecursePanel_12
+  - first:
+      213: -9071606052843265529
+    second: RecursePanel_13
+  - first:
+      213: 1556116190870970882
+    second: RecursePanel_14
+  - first:
+      213: -5022062133441114780
+    second: RecursePanel_15
+  - first:
+      213: 7459440833796165876
+    second: RecursePanel_16
+  - first:
+      213: 4035454082194605388
+    second: RecursePanel_17
+  - first:
+      213: 6829626440462863538
+    second: RecursePanel_18
+  - first:
+      213: -5745469916789905482
+    second: RecursePanel_19
+  - first:
+      213: 6419498845663035738
+    second: RecursePanel_20
+  - first:
+      213: -5356829997488063011
+    second: RecursePanel_21
+  - first:
+      213: 1056903217774513006
+    second: RecursePanel_22
+  - first:
+      213: -5281269156533288389
+    second: RecursePanel_23
+  - first:
+      213: -3371907044784984222
+    second: RecursePanel_24
+  - first:
+      213: 367163801285990956
+    second: RecursePanel_25
+  - first:
+      213: -2113503382543555482
+    second: RecursePanel_26
+  - first:
+      213: -4151013514603856865
+    second: RecursePanel_27
+  - first:
+      213: 2299253135948166143
+    second: RecursePanel_28
+  - first:
+      213: 6975595985022979282
+    second: RecursePanel_29
+  - first:
+      213: 41387266199527462
+    second: RecursePanel_30
+  - first:
+      213: -6449227485538260456
+    second: RecursePanel_31
+  - first:
+      213: 981932787535078360
+    second: RecursePanel_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RecursePanel_4
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 86
+        width: 379
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ba4ccd715928640800000000000000
+      internalID: 5080787259348003644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecursePanel_11
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 209
+        width: 106
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cceadb7320ec76a40800000000000000
+      internalID: 5361480390328299212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecursePanel_0
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 209
+        width: 106
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240eb5ff9d57b0c4a844c1d3530603e3
+      internalID: 2819661147981153638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecursePanel_1
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 208
+        width: 101
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0255f7666c61394fb4c1030fdf405d3
+      internalID: 1854152758722889953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecursePanel_2
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 86
+        width: 367
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b846340ca32cc45ae03e5e7dae8299
+      internalID: -7170469040526338470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RecursePanel_0: 2819661147981153638
+      RecursePanel_1: 1854152758722889953
+      RecursePanel_10: -4004940249960517948
+      RecursePanel_11: 5361480390328299212
+      RecursePanel_12: 5361806768541292473
+      RecursePanel_13: -9071606052843265529
+      RecursePanel_14: 1556116190870970882
+      RecursePanel_15: -5022062133441114780
+      RecursePanel_16: 7459440833796165876
+      RecursePanel_17: 4035454082194605388
+      RecursePanel_18: 6829626440462863538
+      RecursePanel_19: -5745469916789905482
+      RecursePanel_2: -7170469040526338470
+      RecursePanel_20: 6419498845663035738
+      RecursePanel_21: -5356829997488063011
+      RecursePanel_22: 1056903217774513006
+      RecursePanel_23: -5281269156533288389
+      RecursePanel_24: -3371907044784984222
+      RecursePanel_25: 367163801285990956
+      RecursePanel_26: -2113503382543555482
+      RecursePanel_27: -4151013514603856865
+      RecursePanel_28: 2299253135948166143
+      RecursePanel_29: 6975595985022979282
+      RecursePanel_3: 2184482596908501047
+      RecursePanel_30: 41387266199527462
+      RecursePanel_31: -6449227485538260456
+      RecursePanel_32: 981932787535078360
+      RecursePanel_33: 304293014
+      RecursePanel_34: 1977669637
+      RecursePanel_35: 962346891
+      RecursePanel_36: -797376747
+      RecursePanel_37: -1734548507
+      RecursePanel_38: 1400804661
+      RecursePanel_4: 5080787259348003644
+      RecursePanel_5: -2669677211208130921
+      RecursePanel_6: -7253477476362988050
+      RecursePanel_7: -6537624154915840782
+      RecursePanel_8: -990748349399927628
+      RecursePanel_9: 3845198947505675403
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
